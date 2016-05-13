@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sat Mar 26 11:21:42 2016
-
 @author: jgapper
 """
 
